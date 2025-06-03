@@ -22,6 +22,6 @@ This flow allows developers to focus purely on functionality, leaving the heavy 
 
 ## References
 
-* [https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-paas/]
-* [https://www.ibm.com/cloud/learn/paas]
-* [https://www.redhat.com/en/topics/cloud-computing/what-is-paas]
+* https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-paas/
+* https://www.ibm.com/cloud/learn/paas
+* https://www.redhat.com/en/topics/cloud-computing/what-is-paas
