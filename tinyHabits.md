@@ -35,7 +35,7 @@ The concept of making incremental, 1% improvements in various aspects of life st
 
 ## Question 5
 
-### What is the book's perspective about Identity?
+What is the book's perspective about Identity?
 
 **Answer:**
 
@@ -43,7 +43,7 @@ According to "Atomic Habits," maintaining good habits involves embodying the ide
 
 ## Question 6
 
-### Write about the book's perspective on how to make a habit easier to do?
+Write about the book's perspective on how to make a habit easier to do?
 
 **Answer:**
 
@@ -51,7 +51,7 @@ The book suggests viewing habits from an identity perspective, where cues trigge
 
 ## Question 7
 
-### Write about the book's perspective on how to make a habit harder to do?
+Write about the book's perspective on how to make a habit harder to do?
 
 **Answer:**
 
@@ -59,7 +59,9 @@ The book suggests viewing habits from an identity perspective, where cues trigge
 
 ## Question 8
 
-### Pick one habit that you would like to do more of? What are the steps that you can take to make it make the cue obvious or the habit more attractive or easy and or response satisfying?
+Pick one habit that you would like to do more of? What are the steps that you can take to make it make the cue obvious or the habit more attractive or easy and or response satisfying?
+
+**Answer:**
 
 I aim to increase my water intake throughout the day. To achieve this, I can:
 
@@ -68,7 +70,7 @@ I aim to increase my water intake throughout the day. To achieve this, I can:
 
 ## Question 9
 
-### Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?
+Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?
 
 **Answer:**
 
